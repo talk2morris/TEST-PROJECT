@@ -1,0 +1,14 @@
+target/
+.idea/
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+/.settings
+/.project
+/.classpath
+.DS_Store
+/api/target/*
+/omod/target/*
